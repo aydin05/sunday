@@ -48,7 +48,7 @@
 .launch-time div p{
     font-size: 60px;
     margin-bottom: -8px;
-    margin-left: -10px;
+    margin-left: -0px;
 }
 
 .launch-time div span{
@@ -56,9 +56,9 @@
 }
 
 .rocket{
-    width: 250px;
+    width: 350px;
     position: absolute;
-    right: 10%;
+    right: 5%;
     bottom: 0;
     animation: rocket 6s linear infinite;
 }
